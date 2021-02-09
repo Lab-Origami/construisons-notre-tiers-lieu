@@ -1,4 +1,9 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+tmp
+*.rdb
+.env
+.sass-cache
+Gemfile.lock
+_drafts
+_site
+.DS_Store
+.git

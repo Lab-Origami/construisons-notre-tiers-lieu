@@ -1,8 +1,9 @@
 -
   name: "Médiathèque"
-  description: "Notre réseau vous propose une "collection flottante", c'est à dire qu'avec un abonnement, chaque usager peut emprunter et rendre ses documents dans n'importe quelle bibliothèque du réseau. Un choix important de CD, DVD, livres, bandes dessinées sont à votre disposition.
+  description: "Notre réseau vous propose une 'collection flottante', c'est à dire qu'avec un abonnement, chaque usager peut emprunter et rendre ses documents dans n'importe quelle bibliothèque du réseau. Un choix important de CD, DVD, livres, bandes dessinées sont à votre disposition.
 Un catalogue informatique vous permet d'accéder aux documents disponibles, d'effectuer des réservations de documents, de prolonger vos prêts..."
   image: "mediatheque.png"
+  url: "https://mediatheques-qrga.fr/"
   email: "mediatheque@caylus.com"
   tel: "05 63 24 03 71"
   horaire:
@@ -14,7 +15,7 @@ Un catalogue informatique vous permet d'accéder aux documents disponibles, d'ef
 
 -
   name: "Radio CFM"
-  description: "CFM radio née à la grande époque des radios libres, "Radio Caylus expérimentale" est devenue "Radio Caylus", puis "CFM". Depuis trente ans, CFM est géré par l'association "Los Estuflaïres". CFM c'est 5 radios (Montauban, Rodez, Villefranche de Rouergue, Cordes sur Ciel et Caylus). 15 salariés et plus d'une centaine de bénévoles..."
+  description: "CFM radio née à la grande époque des radios libres, 'Radio Caylus expérimentale' est devenue 'Radio Caylus', puis 'CFM'. Depuis trente ans, CFM est géré par l'association 'Los Estuflaïres'. CFM c'est 5 radios (Montauban, Rodez, Villefranche de Rouergue, Cordes sur Ciel et Caylus). 15 salariés et plus d'une centaine de bénévoles..."
   url: "https://cfmradio.fr/"
   image: "cfm.jpg"
 -

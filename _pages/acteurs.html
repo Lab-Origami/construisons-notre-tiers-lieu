@@ -11,15 +11,16 @@ title: Acteurs du Tiers-lieu
 
 {% for acteur in site.data.acteurs %}
 
-<div class="acteur">
+<div> 
   {% if acteur.image %}
-    <img src="{{acteur.image}}" alt="{{acteur.name}}">
+  <div class="acteur">
+    <img src="assets/images/acteurs/{{{acteur.image}}" alt="{{acteur.name}}" width="200px">
   {% endif %}
     <div>
     <p>
 
         {% if acteur.url %}
-          <a href="{{ acteur.url }}"><strong>{{ acteur.name }}</strong></a>
+	<a href="{{ acteur.url }}"><strong>{{ acteur.name }}</strong></a>
         {% else %}
           <strong>{{ acteur.name }}</strong>
         {% endif %}
@@ -28,6 +29,7 @@ title: Acteurs du Tiers-lieu
     <p>
       {{ acteur.description }}
     </p>
+    </div>
   </div>
   {% if acteur.horaire %}
     {% for horaire in acteur.horaire %}
@@ -39,3 +41,5 @@ title: Acteurs du Tiers-lieu
 
 
 {% endfor %}
+
+

@@ -36,11 +36,6 @@ table {
     }
 }
 
-img {
-    width: 100%;
-    margin: 0.5rem 0;
-}
-
 nav {
     ul {
         list-style: none;
@@ -55,6 +50,16 @@ nav {
         margin: 0.5rem;
         text-transform: uppercase;
     }
+}
+
+img {
+	margin: 10px;
+}
+
+.acteur {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
 }
 
 footer {

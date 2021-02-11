@@ -1,0 +1,35 @@
+---
+layout: page
+title: Acteurs du Tiers-lieu
+---
+
+
+<p>
+  Le futur du tiers-lieu est encore à définir, et les possibles sont encore innombrables. Néanmoins, il existe déjà un écosystème existant au centre bourg de Caylus. N'hésites pas à <a href="/rejoindre">Nous Rejoindre!</a>
+</p>
+
+
+{% for acteur in site.data.acteurs %}
+
+<div class="acteur">
+  {% if acteur.image %}
+    <img src="{{acteur.image}}" alt="{{acteur.name}}">
+  {% endif %}
+    <div>
+    <p>
+
+        {% if acteur.url %}
+          <a href="{{ acteur.url }}"><strong>{{ acteur.name }}</strong></a>
+        {% else %}
+          <strong>{{ acteur.name }}</strong>
+        {% endif %}
+
+    </p>
+    <p>
+      {{ acteur.description }}
+    </p>
+  </div>
+</div>
+
+
+{% end %}

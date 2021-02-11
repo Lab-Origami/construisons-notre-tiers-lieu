@@ -1,0 +1,36 @@
+-
+  name: "Médiathèque"
+  description: "sdfdqsgf"
+  image: "mediatheque.png"
+-
+  name: "Radio CFM"
+  description: "sdfdqsgf"
+  url: "https://cfmradio.fr/"
+  image: "cfm.jpg"
+-
+  name: "Fablab origami"
+  url: "http://lab-origami.fr"
+  description: "coucou petite perruche"
+  image: "fablab.png"
+-
+  name: "Centre de Ressources Economiques"
+  description: "sdfdqsgf"
+-
+  name: "Maison de services au public"
+  description: "https://www.maisondeservicesaupublic.fr/content/caylus"
+  image: "msap.jpg"
+-
+  name: "Eau-Di-C"
+  description: ""
+  url: "http://www.eau-di-c.com/"
+  image: "eaudic.jpg"
+-
+  name: "Conservatoire Botanique National"
+  description: ""
+  url: "https://cbnpmp.blogspot.com/"
+  image: "conservatoire.png"
+-
+  name: "e8architecture"
+  description: ""
+  url: "http://www.e8architecture.com"
+  image: "e8architecture.jpg"

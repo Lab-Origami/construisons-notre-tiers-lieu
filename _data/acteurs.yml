@@ -1,36 +1,47 @@
 -
   name: "Médiathèque"
-  description: "sdfdqsgf"
+  description: "Notre réseau vous propose une "collection flottante", c'est à dire qu'avec un abonnement, chaque usager peut emprunter et rendre ses documents dans n'importe quelle bibliothèque du réseau. Un choix important de CD, DVD, livres, bandes dessinées sont à votre disposition.
+Un catalogue informatique vous permet d'accéder aux documents disponibles, d'effectuer des réservations de documents, de prolonger vos prêts..."
   image: "mediatheque.png"
+  email: "mediatheque@caylus.com"
+  tel: "05 63 24 03 71"
+  horaire:
+    Mardi: 10h/12h30 - 14h/18h
+    Mercredi: 10h/12h30 - 14h/18h
+    Jeudi: 14h/18h
+    Vendredi: 14h/18h
+    Samedi: 10h/12h30
+
 -
   name: "Radio CFM"
-  description: "sdfdqsgf"
+  description: "CFM radio née à la grande époque des radios libres, "Radio Caylus expérimentale" est devenue "Radio Caylus", puis "CFM". Depuis trente ans, CFM est géré par l'association "Los Estuflaïres". CFM c'est 5 radios (Montauban, Rodez, Villefranche de Rouergue, Cordes sur Ciel et Caylus). 15 salariés et plus d'une centaine de bénévoles..."
   url: "https://cfmradio.fr/"
   image: "cfm.jpg"
 -
   name: "Fablab origami"
   url: "http://lab-origami.fr"
-  description: "coucou petite perruche"
+  description: "Un Fablab est un lieu de création, d'expérimentation et de réalisation ouvert et accessible à tous. Il permet d'accéder aux outils numériques et aux nouvelles technologies mais aussi de se réapproprier des savoirs-faire. C'est également un lieu de rencontre, de partage de connaissances et de compétences où l'on fait ensemble."
   image: "fablab.png"
 -
   name: "Centre de Ressources Economiques"
-  description: "sdfdqsgf"
+  description: "Le Centre de Ressources Economiques rassemble en un seul lieu et sur trois niveaux une Maison de Services Au Public (MSAP), service de la Communauté de Communes facilitant l’accès aux différentes administrations, et plusieurs espaces à la location (dont des bureaux fermés et un espace ouvert). L’idée est en effet que cette infrastructure puisse offrir aux entreprises bénéficiaires la possibilité de se développer en s’appuyant sur un lieu et des services partagés, rassemblant plusieurs acteurs économiques locaux."
 -
   name: "Maison de services au public"
-  description: "https://www.maisondeservicesaupublic.fr/content/caylus"
+  description: "Le principal objectif du réseau France Services est de maintenir l’accès aux services publics en milieu rural ; c’est la possibilité, en un même lieu, d’être accueilli par un agent, d’obtenir des informations et d’effectuer des démarches administratives relevant de plusieurs administrations ou organismes publics. En effet, elles permettent aux habitants des Cantons de Caylus et de Saint Antonin Noble Val d’avoir un contact permanent avec les administrations et de bénéficier d’une aide dans leurs démarches. Les animatrices vous aident dans la compréhension de vos documents et vous rédigent vos courriers administratifs."
+  url: "https://www.maisondeservicesaupublic.fr/content/caylus"
   image: "msap.jpg"
 -
   name: "Eau-Di-C"
-  description: ""
+  description: "EAU-DI-C a développé une expertise dans le domaine de la production et le traitement de l’eau purifiée pour l’industrie pharmaceutique et les établissements de santé ainsi que dans la prévention des risques sanitaires. Spécialisée dans la réalisation d’études, l’ingénierie, la maîtrise d’ouvrage et la qualification, EAU-DI-C accompagne tous vos projets de la conception à la certification de qualité. Notre bureau d’étude est situé à Caylus dans le Tarn et Garonne. Nous intervenons dans le grand Sud-Ouest, en Occitanie et en Nouvelle-Aquitaine."
   url: "http://www.eau-di-c.com/"
   image: "eaudic.jpg"
 -
   name: "Conservatoire Botanique National"
-  description: ""
+  description: "Agréé par le Ministère de la Transition écologique et solidaire, le Conservatoire remplit 5 missions mises en œuvre à l’échelle du massif pyrénéen et de la région Occitanie (ex Midi-Pyrénées) \n- connaître la flore sauvage, la fonge, les végétations et les habitats naturels \n- préserver la diversité de ce patrimoine sauvage, en particulier les éléments rares et menacés \n- valoriser les données terrain et bibliographiques capitalisées \n- appuyer en expertise scientifique et technique les pouvoirs publics, les collectivités \n- sensibiliser les publics à la fragilité de cette richesse patrimoniale."
   url: "https://cbnpmp.blogspot.com/"
   image: "conservatoire.png"
 -
   name: "e8architecture"
-  description: ""
+  description: "E8 architecture est une petite agence composée de trois personnes : un architecte gérant et deux collaboratrices. Installée dans le village de Caylus, l'agence est ancrée dans le territoire et travaille sur tous types de projets."
   url: "http://www.e8architecture.com"
   image: "e8architecture.jpg"

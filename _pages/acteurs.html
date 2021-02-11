@@ -29,7 +29,13 @@ title: Acteurs du Tiers-lieu
       {{ acteur.description }}
     </p>
   </div>
+  {% if acteur.horaire %}
+    {% for horaire in acteur.horaire %}
+      <strong>{{ horaire[0] }}:</strong> {{ horaire[1] }}
+
+    {% endfor %}
+  {% endif %}
 </div>
 
 
-{% end %}
+{% endfor %}
